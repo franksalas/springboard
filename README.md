@@ -1,12 +1,34 @@
-# springboard
-
+# springboard Projects
 
 ---
 
-## JSON exercise
-Using data in file 'data/world_bank_projects.json' and the techniques demonstrated above,
-- [x] 1. Find the 10 countries with most projects
-- [x] 2. Find the top 10 major project themes (using column 'mjtheme_namecode')
-- [x] 3. In 2. above you will notice that some entries have only the code and the name is missing. Create a dataframe with the missing names filled in.
+## Datawrangling with json
+- sliderule_dsi_json_exercise.ipynb
+
+
 
 ## Exploratory Data Analysis Projects
+
+-  EDA Human Temperature notebook
+    -  sliderule_dsi_inferential_statistics_exercise_1.ipynb
+-  EDA Racial Discrimination notebook
+    -  sliderule_dsi_inferential_statistics_exercise_2.ipynb
+-  Hospital Readmit notebook
+    -  sliderule_dsi_inferential_statistics_exercise_3.ipynb
+
+
+## Linear Regression
+
+- Mini_Project_Linear_Regression.ipynb [Lab 4 in Harvard's CS109](https://github.com/cs109/2015lab4)
+
+## Logistic Regression (classification)
+
+- Mini_Project_Logistic_Regression.ipynb [Lab 5 in Harvard's CS109](https://github.com/cs109/2015lab5)
+
+## Naive Bayes
+
+- Mini_Project_Naive_Bayes.ipynb [Lab 10 in Harvard's CS109](https://github.com/cs109/2015lab10)
+
+## Clustering
+
+- Mini_Project_Clustering.ipynb [based on blog post](http://blog.yhat.com/posts/customer-segmentation-using-python.html)
